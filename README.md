@@ -45,13 +45,6 @@ I am a Senior Software Engineer based in **Nigeria** with over 6 years of experi
 
 ---
 
-### 📊 GitHub Stats
-
-![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbencoplanet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbencoplanet&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
