@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Bernard Amaeme 👋
 
-<!--
-**DbencoPlanet/DbencoPlanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full Stack Software Engineer | .NET & Node.js Expert
 
-Here are some ideas to get you started:
+I am a Senior Software Engineer based in **Nigeria** with over 6 years of experience building enterprise-scale applications. I specialize in **C#/.NET** and **Node.js**, with a strong focus on **Clean Architecture**, multi-tenant SaaS systems, and cloud deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **B.Tech in Computer Science** from the Federal University of Technology, Owerri.
+- 🚀 Currently focused on building high-performance, scalable backend architectures.
+- 🛠️ Passionate about **Unit Testing** and maintaining high code quality.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend & Styling**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Cloud & DevOps**
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Testing**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+- **[DigiScholexa](https://github.com/your-repo)** - A robust, multi-tenant school management system built for scalability.
+- **[FlowNexis](https://github.com/your-repo)** - An enterprise-grade BPMN 2.0 compliant workflow engine.
+- **[SmartPay](https://github.com/your-repo)** - A multi-currency fintech system with wallet-to-wallet transfer capabilities.
+
+---
+
+### 📊 GitHub Stats
+
+![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bernard Amaeme" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+</p>
