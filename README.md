@@ -1,8 +1,10 @@
 # Hi there, I'm Bernard Amaeme 👋
 
-### Senior Full Stack Software Engineer | .NET, Java & Node.js Expert
+### Senior Full Stack Software Engineer | .NET, Java, Node.js & Go Expert
 
-I am a Senior Software Engineer based in **Nigeria** with over 6 years of experience building enterprise-scale applications. I specialize in **C#/.NET**, **Java Spring Boot**, and **Node.js**, with a strong focus on **Clean Architecture**, multi-tenant SaaS systems, and cloud-native deployments.
+![Profile Views](https://komarev.com/ghpvc/?username=DbencoPlanet&color=0e75b6&style=for-the-badge)
+
+I am a Senior Software Engineer based in **Nigeria** with over 7 years of experience building enterprise-scale applications. I specialize in **C#/.NET**, **Java Spring Boot**, **Node.js**, and **Go**, with a strong focus on **Clean Architecture**, multi-tenant SaaS systems, and cloud-native deployments.
 
 - 🎓 **B.Tech in Computer Science**.
 - 🚀 Expert in building high-performance, scalable backend architectures and modern frontends with **Angular** and **React**.
@@ -18,6 +20,7 @@ I am a Senior Software Engineer based in **Nigeria** with over 6 years of experi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend & Styling**
@@ -45,9 +48,23 @@ I am a Senior Software Engineer based in **Nigeria** with over 6 years of experi
 
 ---
 
+### 📊 GitHub Metrics
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=DbencoPlanet" alt="Bernard Amaeme's GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DbencoPlanet&show_icons=true&count_private=true" alt="Bernard Amaeme's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DbencoPlanet&layout=compact" alt="Bernard Amaeme's Top Languages" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bernardamaeme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bernard Amaeme" height="30" width="40" /></a>
-<a href="mailto:bernardamaeme@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+  <a href="https://www.linkedin.com/in/bernardamaeme" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bernardamaeme@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/DbencoPlanet" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
