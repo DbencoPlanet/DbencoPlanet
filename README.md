@@ -54,11 +54,6 @@ I am a Senior Software Engineer based in **Nigeria** with over 7 years of experi
   <img src="https://streak-stats.demolab.com/?user=DbencoPlanet" alt="Bernard Amaeme's GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DbencoPlanet&show_icons=true&count_private=true" alt="Bernard Amaeme's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DbencoPlanet&layout=compact" alt="Bernard Amaeme's Top Languages" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
